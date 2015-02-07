@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="SmartSearch:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="SmartSearch.war">
+      <element id="artifact" artifact-name="SmartSearch:war exploded" />
+    </root>
+  </artifact>
+</component>
